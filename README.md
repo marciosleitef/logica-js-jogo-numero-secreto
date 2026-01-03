@@ -1,22 +1,23 @@
 # Jogo do Número Secreto 🎯
 
-Projeto em JavaScript desenvolvido durante o curso  
-**Lógica de Programação: mergulhe em programação com JavaScript** da **Alura**.
+Projeto em JavaScript desenvolvido durante o curso 
+**Lógica de Programação: mergulhe em programação com JavaScript** da Alura.
 
-O objetivo do jogo é adivinhar um número secreto gerado aleatoriamente pelo sistema, utilizando conceitos básicos de lógica de programação.
+O jogo desafia o usuário a adivinhar um número secreto gerado aleatoriamente,
+agora com interface gráfica, feedback visual e controle de tentativas.
 
-## 🎮 Como funciona
-- O sistema gera um número secreto
-- O usuário tenta adivinhar o número
-- O jogo informa se o número secreto é maior ou menor que o chute
-- Ao acertar, o jogo mostra a quantidade de tentativas
+## Funcionalidades
+- Geração de número secreto sem repetição
+- Interface com input e botão
+- Feedback visual em tempo real
+- Contador de tentativas
+- Suporte à tecla ENTER
+- Leitura em voz das mensagens (responsiveVoice)
 
-## 🚀 Tecnologias utilizadas
+## Tecnologias
 - HTML
 - CSS
 - JavaScript
 
-## ▶️ Como executar o projeto
-1. Clone ou baixe este repositório
-2. Abra o arquivo `index.html` em um navegador web
-3. Comece a jogar 🎉
+## Como executar
+Abra o arquivo `index.html` no navegador ou acesse a versão online via GitHub Pages.
